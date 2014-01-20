@@ -1,0 +1,15 @@
+EESchema-LIBRARY Version 2.3  Date: mar. 21 janv. 2014 00:35:16 CET
+#encoding utf-8
+#
+# K21P121M120SF5
+#
+DEF K21P121M120SF5 U 0 40 Y Y 1 F N
+F0 "U" 0 0 60 H V C CNN
+F1 "K21P121M120SF5" 0 0 60 H V C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
+#End Library
